@@ -10,5 +10,6 @@ I also use Figma for UI design, and Canva for when I want to test some ideas
 This is my profile where I upload my small projects, experiments, and things I'm currently working on.
 
 🔭 I’m currently working on a microblog with Flask
+
 🌱 I’m currently learning Flask & Django
 
